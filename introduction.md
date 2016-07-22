@@ -6,3 +6,4 @@ Deadly Skills:
 *jQuery
 *PHP
 *Java
+*Killing history using git rebase
